@@ -2,6 +2,8 @@
 
 Public list of Spigot versions and their respective api and artifact versions.
 
+[View list](./versions.json).
+
 ## BuildTools
 
 `java -jar BuildTools.jar --rev (version)`
