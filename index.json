@@ -1,0 +1,167 @@
+[
+    {
+        "version": "1.16.4",
+        "api": "1.16",
+        "artifact": "1.16.4-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.16.3",
+        "api": "1.16",
+        "artifact": "1.16.3-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.16.2",
+        "api": "1.16",
+        "artifact": "1.16.2-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.16.1",
+        "api": "1.16",
+        "artifact": "1.16.1-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.15.2",
+        "api": "1.15",
+        "artifact": "1.15.2-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.15.1",
+        "api": "1.15",
+        "artifact": "1.15.1-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.15",
+        "api": "1.15",
+        "artifact": "1.15-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.14.4",
+        "api": "1.14",
+        "artifact": "1.14.4-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.14.3",
+        "api": "1.14",
+        "artifact": "1.14.3-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.14.2",
+        "api": "1.14",
+        "artifact": "1.14.2-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.14.1",
+        "api": "1.14",
+        "artifact": "1.14.1-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.14",
+        "api": "1.14",
+        "artifact": "1.14-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.13.2",
+        "api": "1.13",
+        "artifact": "1.13.2-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.13.1",
+        "api": "1.13",
+        "artifact": "1.13.1-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.13",
+        "api": "1.13",
+        "artifact": "1.13-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.12.2",
+        "api": "1.12",
+        "artifact": "1.12.2-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.12.1",
+        "api": "1.12",
+        "artifact": "1.12.1-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.12",
+        "api": "1.12",
+        "artifact": "1.12-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.11.2",
+        "api": "1.11",
+        "artifact": "1.11.2-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.11.1",
+        "api": "1.11",
+        "artifact": "1.11.1-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.11",
+        "api": "1.11",
+        "artifact": "1.11-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.10.2",
+        "api": "1.10",
+        "artifact": "1.10.2-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.10",
+        "api": "1.10",
+        "artifact": "1.10-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.9.4",
+        "api": "1.9",
+        "artifact": "1.9.4-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.9.2",
+        "api": "1.9",
+        "artifact": "1.9.2-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.9",
+        "api": "1.9",
+        "artifact": "1.9-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.8.8",
+        "api": "1.8",
+        "artifact": "1.8.8-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.8.7",
+        "api": "1.8",
+        "artifact": "1.8.7-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.8.6",
+        "api": "1.8",
+        "artifact": "1.8.6-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.8.5",
+        "api": "1.8",
+        "artifact": "1.8.5-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.8.4",
+        "api": "1.8",
+        "artifact": "1.8.4-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.8.3",
+        "api": "1.8",
+        "artifact": "1.8.3-R0.1-SNAPSHOT"
+    },
+    {
+        "version": "1.8",
+        "api": "1.8",
+        "artifact": "1.8-R0.1-SNAPSHOT"
+    }
+]
